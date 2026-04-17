@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SpotifyClone"
+rootProject.name = "SwiggyClone"
 include(":app")
  
